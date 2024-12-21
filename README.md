@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Ceylon Way Products**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **jQuery**
 
 - 📫 How to reach me **nisalmallawarachchi@gmail.com**
 
