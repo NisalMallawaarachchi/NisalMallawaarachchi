@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisalmallawaarachchi&label=Profile%20views&color=0e75b6&style=flat" alt="nisalmallawaarachchi" /> </p>
 
-- 🔭 I’m currently working on **Ceylon Way Products**
+- 🔭 I’m currently studying at **Sri Lanka Institute of Information Technology**
 
-- 🌱 I’m currently learning **jQuery**
+- 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **nisalmallawarachchi@gmail.com**
 
