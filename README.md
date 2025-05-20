@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying at **Sri Lanka Institute of Information Technology**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Python and Java**
 
 - 📫 How to reach me **nisalmallawarachchi@gmail.com**
 
