@@ -2,7 +2,7 @@ name: Update Blog Posts
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily at 00:00 UTC
+    - cron: "0 0 * * *" # daily at 00:00 UTC
   workflow_dispatch:
 
 permissions:
@@ -16,7 +16,11 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Update README with latest blog posts
-        uses: gautamkrishnar/blog-post-workflow@master
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          max_post_count: "5"
           feed_list: "https://nisal.hashnode.dev/rss.xml"
+          max_post_count: 5
+
+          # Fix Hashnode 403 (make request look like a normal browser)
+          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36"
+          accept_header: "text/html,application/xhtml+xml,application/xml;q=0.9,application/rss+xml;q=0.8,*/*;q=0.7"
