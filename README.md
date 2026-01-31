@@ -39,6 +39,7 @@ Promoted to Assistant Team Lead through hands-on backend ownership and engineeri
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [You Don't Need to Be a Genius to Code](https://nisal.hashnode.dev/you-dont-need-to-be-a-genius-to-code)
 <!-- BLOG-POST-LIST:END -->
 
 ---
