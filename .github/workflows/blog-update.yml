@@ -1,0 +1,33 @@
+name: Update Blog Posts
+on:
+  schedule:
+    # Runs at 00:00 UTC daily
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Update README with blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: 5
+          feed_list: "https://nisal.hashnode.dev/rss.xml"
+          readme_path: README.md
+          comment_tag_name: "BLOG-POST-LIST"
+          commit_message: "📝 Update latest blog posts"
+          disable_sort: false
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
