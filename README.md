@@ -27,6 +27,11 @@ Promoted to Assistant Team Lead through hands-on backend ownership and engineeri
 ✍️ **Blog:** https://nisal.hashnode.dev/series/mind-over-syntax  
 💼 **LinkedIn:** https://linkedin.com/in/nisal-mallawaarachchi  
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NisalMallawaarachchi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisalMallawaarachchi&layout=compact&langs_count=8&theme=dracula" />
+</div>
+
 ---
 
 ## 🚀 Current Focus
