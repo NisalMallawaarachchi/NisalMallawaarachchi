@@ -23,7 +23,7 @@ Promoted to Assistant Team Lead through hands-on backend ownership and engineeri
 - ✍️ I actively write technical articles under the **“Mind over Syntax”** series
 
 📫 **Email:** nisalmallawarachchi@gmail.com  
-🌐 **Portfolio:** https://nisalmallawaarachchi.vercel.app/ 
+🌐 **Portfolio:** https://nisalmallawaarachchi.vercel.app/  
 ✍️ **Blog:** https://nisal.hashnode.dev/series/mind-over-syntax  
 💼 **LinkedIn:** https://linkedin.com/in/nisal-mallawaarachchi  
 
